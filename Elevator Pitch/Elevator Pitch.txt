@@ -1,5 +1,0 @@
-Hi, My name is Devraj, 
-I have been working as a Database administrator for the last 1.5 years. 
-Currently, I am working at Intimetec and my client is Simplot, one of the largest privately-held food and agribusiness companies in the United States. I am working in data platform team and my team maintains around more than 300 servers. 
-I do all the server and database maintenance work. I am expert in DB Server maintenance Automation with some of the famous scripting languages like PowerShell and python. 
-Currently, I am learning data engineering through a data engineering master's program and looking for opportunities to showcase and enhance my skills.
